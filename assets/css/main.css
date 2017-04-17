@@ -1,0 +1,22 @@
+ul{
+  background-color: black;
+}
+
+li{
+  display: inline-block;
+  list-style: none;
+  padding: 20px;
+}
+
+a{
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 10px;
+}
+a:hover{
+  color:green;
+}
+span{
+  color: red;
+  margin: 0 100px;
+}
